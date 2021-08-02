@@ -1,4 +1,4 @@
-# Developer.
+# Developer
 
 🔨 Developing ThingsOrThings Mod on Minecraft
 
